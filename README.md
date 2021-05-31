@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi there, I'm **DArshit Shukla**, a **Full Stack Android Developer** 🚀 from Jabalpur, India.
-Currently, I'm a Community Team Member 🙍🏽‍♂️ [@BigBusiness](https://github.com/bigbusiness-app), BigBusinessApp 👨🏽‍💻 [@BigBusinessApp](https://bigbusinessapp.com/), and an Android Developer intern 👨🏽‍💼. 
-
+Hi there, I'm **Darshit Shukla**, a **Full Stack Android Developer** 🚀 from Jabalpur, India.
+<!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@BigBusiness](https://github.com/bigbusiness-app), BigBusinessApp 👨🏽‍💻 [@BigBusinessApp](https://bigbusinessapp.com/), and an Android Developer intern 👨🏽‍💼. 
+ -->
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
@@ -47,7 +47,7 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@BigBusiness](https://
 **Languages and Tools:**  
 
 
-<code><img height="20" <i class="fab fa-java"></i>></code>
+<code><img height="20"> <i class="fab fa-java"></i></img></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
