@@ -20,7 +20,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Darshit's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://darshit.netlify.app/">
-  <img align="left" alt="Zamran's Instagram" width="24px" <i class="fab fa-codepen"></i> />
 </a>
 <br>
 <br>
@@ -47,7 +46,7 @@ Hi there, I'm **Darshit Shukla**, a **Full Stack Android Developer** 🚀 from J
 **Languages and Tools:**  
 
 
-<code><img height="20"> <i class="fab fa-java"></i></img></code>
+<code><img height="20" src= "file:///C:/Users/ASUS/Downloads/java-brands.svg"> </code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
