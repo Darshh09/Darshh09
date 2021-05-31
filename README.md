@@ -28,7 +28,7 @@ Hi there, I'm **Darshit Shukla**, a **Full Stack Android Developer** 🚀 from J
 - 🤔 My interests are Developing Apps, Explore New Tech And learn Them and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [darshitshukla1777@gmail.com](mailto: darshitshukla1777@gmail.com).
+- 📫 Email me at [darshitshukla1777@gmail.com]
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/16MJih1UHFgPsZMqUpVi_EwFV32Mjvldu/view?usp=sharing) to get more info.
 
 
