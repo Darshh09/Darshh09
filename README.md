@@ -47,3 +47,8 @@ Hi there, I'm **Darshit Shukla**, a **Full Stack Android Developer** 🚀 from J
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ⭐️ From [Darshh09](https://github.com/Darshh09)
+
+
+
+<a href="https://profile-summary-for-github.com/user/Darshh09">
+  <img height="200px" width="100%" src="https://github-readme-stats.vercel.app/api?theme=light&username=Darshh09&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Darshit's GitHub stats"/>
