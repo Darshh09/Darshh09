@@ -23,7 +23,7 @@ Hi there, I'm **Darshit Shukla**, a **Full Stack Android Developer** 🚀 from J
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a Android Developer at Big Business App.
+- 👨🏽‍💻 I’m currently working as a Software Developer at QuantelAI.
 - 🌱 I’m currently exploring New Technologies with a big interest in Building Single Page Application With Multiple Tasks. 
 - 🤔 My interests are Developing Apps, Explore New Tech And learn Them and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering.
