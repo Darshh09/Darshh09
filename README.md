@@ -26,7 +26,7 @@ Hi there, I'm **Darshit Shukla**, a **Full Stack Android Developer** 🚀 from J
 - 👨🏽‍💻 I’m currently working as a Software Developer at QuantelAI.
 - 🌱 I’m currently exploring New Technologies with a big interest in Building Single Page Application With Multiple Tasks. 
 - 🤔 My interests are Developing Apps, Explore New Tech And learn Them and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering.
+- 💼 I’m 2021 graduate on Bachelor's degree in Computer Science Engineering.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [darshitshukla1777@gmail.com]
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/16MJih1UHFgPsZMqUpVi_EwFV32Mjvldu/view?usp=sharing) to get more info.
